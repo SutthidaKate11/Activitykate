@@ -8,64 +8,67 @@
 
     <Button
         android:id="@+id/c1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="C"
+        android:layout_width="387dp"
+        android:layout_height="78dp"
+        android:text="เปิดให้บริการตั้งแต่เวลา 08.30 – 24.00 น. ทุกวัน"
+        android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.22"
+        app:layout_constraintHorizontal_bias="0.458"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.686" />
+        app:layout_constraintVertical_bias="0.69" />
 
     <Button
         android:id="@+id/d1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="D"
+        android:layout_width="383dp"
+        android:layout_height="77dp"
+        android:text="เปิดให้บริการตั้งแต่เวลา 06.30 – 05.00 น. ทุกวัน"
+        android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.776"
+        app:layout_constraintHorizontal_bias="0.392"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.686" />
+        app:layout_constraintVertical_bias="0.888" />
 
     <Button
         android:id="@+id/b1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="B"
+        android:layout_width="386dp"
+        android:layout_height="72dp"
+        android:text="เปิดให้บริการตั้งแต่เวลา 05.00 – 24.00 น. ทุกวัน"
+        android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.776"
+        app:layout_constraintHorizontal_bias="0.48"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.524" />
+        app:layout_constraintVertical_bias="0.499" />
 
     <TextView
         android:id="@+id/question1"
-        android:layout_width="380dp"
-        android:layout_height="155dp"
+        android:layout_width="362dp"
+        android:layout_height="108dp"
         android:text="ข้อ 1. รถไฟฟ้าบีทีเอสเปิดให้บริการและปิดให้บริการเวลาใด"
         android:textAlignment="center"
-        android:textSize="20sp"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.483"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.283" />
+        app:layout_constraintVertical_bias="0.14" />
 
     <Button
         android:id="@+id/a1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="A"
+        android:layout_width="386dp"
+        android:layout_height="63dp"
+        android:text="เปิดให้บริการตั้งแต่เวลา 06.00 – 24.00 น. ทุกวัน"
+        android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.22"
+        app:layout_constraintHorizontal_bias="0.48"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.524" />
+        app:layout_constraintVertical_bias="0.338" />
 </androidx.constraintlayout.widget.ConstraintLayout>

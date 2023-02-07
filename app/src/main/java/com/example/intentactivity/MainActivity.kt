@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_main.view.*
+import kotlinx.android.synthetic.main.activity_main1.*
 import kotlinx.android.synthetic.main.activity_main1.view.*
 
 class MainActivity : AppCompatActivity() {
